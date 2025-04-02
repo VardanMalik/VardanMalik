@@ -7,4 +7,4 @@
 📄 Published with IEEE on 5G in Defense & Security  
 🌱 Always learning, always building  
 🔍 Open to Summer 2025 SDE Internship opportunities  
-📫 Reach me: vardanmalik1603@gmail.com | [LinkedIn](https://www.linkedin.com/in/your-profile)  
+📫 Reach me: vardanmalik1603@gmail.com | [LinkedIn](https://www.linkedin.com/in/vardan-malik/)  
