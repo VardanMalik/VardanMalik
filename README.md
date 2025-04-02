@@ -4,6 +4,7 @@
 🛠️ Languages & tools I use: Python, Java, C++, JS/TS, React, Node.js, Flask, Docker, AWS, Kubernetes  
 📚 Currently diving deeper into system design, scalable architecture, and clean code practices  
 🚀 I’ve built crypto trading bots, sentiment analyzers, semantic search engines, and many more things
+
 📄 Published with IEEE on 5G in Defense & Security  
 🌱 Always learning, always building  
 🔍 Open to Summer 2025 SDE Internship opportunities  
