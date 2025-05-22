@@ -6,5 +6,5 @@
 🚀 I’ve built crypto trading bots, sentiment analyzers, semantic search engines, and many more things  
 📄 Published with IEEE on 5G in Defense & Security  
 🌱 Always learning, always building  
-🔍 Open to Summer 2025 SDE Internship opportunities  
+🔍 Open to new grad 2026 SDE opportunities  
 📫 Reach me: vardanmalik1603@gmail.com | [LinkedIn](https://www.linkedin.com/in/vardan-malik/)
