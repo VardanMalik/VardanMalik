@@ -1,10 +1,55 @@
-👋 Hi, I’m Vardan Malik  
-🎓 I’m a CS grad student at Indiana University (MS '26)  
-💻 I love building full-stack apps, solving problems, and experimenting with AI/ML  
-🛠️ Languages & tools I use: Python, Java, C++, JS/TS, React, Node.js, Flask, Docker, AWS, Kubernetes  
-📚 Currently diving deeper into system design, scalable architecture, and clean code practices  
-🚀 I’ve built crypto trading bots, sentiment analyzers, semantic search engines, and many more things  
-📄 Published with IEEE on 5G in Defense & Security  
-🌱 Always learning, always building  
-🔍 Open to new grad 2026 SDE opportunities  
-📫 Reach me: vardanmalik1603@gmail.com | [LinkedIn](https://www.linkedin.com/in/vardan-malik/)
+<div align="center">
+
+# Hey there, I'm Vardan 👋
+
+**Backend Engineer · Distributed Systems Enthusiast · Cloud Architect**
+
+[![Gmail](https://img.shields.io/badge/-malikvardan1603@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:malikvardan1603@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-vardan--malik-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/vardan-malik)
+[![LeetCode](https://img.shields.io/badge/-vardan__malik-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/vardan_malik/)
+
+</div>
+
+---
+
+- 🎓 MS Computer Science @ **Indiana University Bloomington** (May 2026)
+- 🔧 I build things that scale — microservices, event-driven pipelines, real-time systems
+- ☁️ **AWS Certified Cloud Practitioner** · Studying for Solutions Architect Associate
+- 📄 Published researcher — [IEEE ICIDeA 2022](https://ieeexplore.ieee.org/document/9970046/authors#authors)
+- 🎯 Currently seeking **SWE roles** (Backend / Distributed Systems / Cloud)
+- 📫 Reach me at **malikvardan1603@gmail.com**
+
+---
+
+### 🛠 Languages and Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,cpp,spring,fastapi,django,nodejs,react&theme=dark" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,postgres,redis,kafka,dynamodb&theme=dark" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,githubactions,jenkins,pytorch,tensorflow,linux,bash,vscode&theme=dark" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=VardanMalik&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VardanMalik&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" />
+
+<br/>
+
+<img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=VardanMalik&theme=tokyonight&hide_border=true&background=0D1117" />
+
+</div>
