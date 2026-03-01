@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey there, I'm Vardan 👋
+# Hey there, I'm Vardan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
 **Backend Engineer · Distributed Systems Enthusiast · Cloud Architect**
 
@@ -24,19 +24,26 @@
 ### 🛠 Languages and Tools
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,cpp,spring,fastapi,django,nodejs,react&theme=dark" />
-  </a>
+  <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="48" height="48" alt="Python"/></a>&nbsp;
+  <a href="https://www.java.com"><img src="https://skillicons.dev/icons?i=java&theme=dark" width="48" height="48" alt="Java"/></a>&nbsp;
+  <a href="https://isocpp.org"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="48" height="48" alt="C++"/></a>&nbsp;
+  <a href="https://www.swift.org"><img src="https://skillicons.dev/icons?i=swift&theme=dark" width="48" height="48" alt="Swift"/></a>&nbsp;
+  <a href="https://kotlinlang.org"><img src="https://skillicons.dev/icons?i=kotlin&theme=dark" width="48" height="48" alt="Kotlin"/></a>&nbsp;
+  <a href="https://spring.io/projects/spring-boot"><img src="https://skillicons.dev/icons?i=spring&theme=dark" width="48" height="48" alt="Spring Boot"/></a>&nbsp;
+  <a href="https://fastapi.tiangolo.com"><img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="48" height="48" alt="FastAPI"/></a>&nbsp;
+  <a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48" height="48" alt="Node.js"/></a>&nbsp;
+  <a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" height="48" alt="React"/></a>
 </p>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,postgres,redis,kafka,dynamodb&theme=dark" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,githubactions,jenkins,pytorch,tensorflow,linux,bash,vscode&theme=dark" />
-  </a>
+  <a href="https://aws.amazon.com"><img src="https://skillicons.dev/icons?i=aws&theme=dark" width="48" height="48" alt="AWS"/></a>&nbsp;
+  <a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48" height="48" alt="Docker"/></a>&nbsp;
+  <a href="https://kubernetes.io"><img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" width="48" height="48" alt="Kubernetes"/></a>&nbsp;
+  <a href="https://www.postgresql.org"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="48" height="48" alt="PostgreSQL"/></a>&nbsp;
+  <a href="https://redis.io"><img src="https://skillicons.dev/icons?i=redis&theme=dark" width="48" height="48" alt="Redis"/></a>&nbsp;
+  <a href="https://kafka.apache.org"><img src="https://skillicons.dev/icons?i=kafka&theme=dark" width="48" height="48" alt="Kafka"/></a>&nbsp;
+  <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" height="48" alt="Git"/></a>&nbsp;
+  <a href="https://pytorch.org"><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="48" height="48" alt="PyTorch"/></a>&nbsp;
+  <a href="https://www.tensorflow.org"><img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="48" height="48" alt="TensorFlow"/></a>
 </p>
 
 ---
