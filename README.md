@@ -41,15 +41,8 @@
 
 ---
 
-### 📊 GitHub Stats
-
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=VardanMalik&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VardanMalik&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" />
-
-<br/>
-
-<img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=VardanMalik&theme=tokyonight&hide_border=true&background=0D1117" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=VardanMalik&theme=tokyonight&hide_border=true&background=0D1117" width="55%" />
 
 </div>
