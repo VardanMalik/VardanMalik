@@ -5,7 +5,7 @@
 **Backend Engineer · Distributed Systems Enthusiast · Cloud Architect**
 
 [![Gmail](https://img.shields.io/badge/-malikvardan1603@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:malikvardan1603@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-vardan--malik-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/vardan-malik)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/-vardan--malik-0A66C2?style=flat&logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/vardan-malik)
 [![LeetCode](https://img.shields.io/badge/-vardan__malik-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/vardan_malik/)
 
 </div>
