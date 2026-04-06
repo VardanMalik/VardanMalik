@@ -14,7 +14,7 @@
 
 - 🎓 MS Computer Science @ **Indiana University Bloomington** (May 2026)
 - 🔧 I build things that scale — microservices, event-driven pipelines, real-time systems
-- ☁️ **AWS Certified Cloud Practitioner** · Studying for Solutions Architect Associate
+- ☁️ **AWS Solutions Architect Associate** · **AWS Cloud Practitioner** · Studying for Developer Associate
 - 📄 Published researcher — [IEEE ICIDeA 2022](https://ieeexplore.ieee.org/document/9970046/authors#authors)
 - 🎯 Currently seeking **SWE roles** (Backend / Distributed Systems / Cloud)
 - 📫 Reach me at **malikvardan1603@gmail.com**
