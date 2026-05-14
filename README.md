@@ -8,6 +8,8 @@
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/-vardan--malik-0A66C2?style=flat&logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/vardan-malik)
 [![LeetCode](https://img.shields.io/badge/-vardan__malik-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/vardan_malik/)
 
+![Profile Views](https://komarev.com/ghpvc/?username=VardanMalik&color=6C63FF&style=flat-square&label=Profile+Views)
+
 </div>
 
 ---
