@@ -19,7 +19,7 @@
 - ☁️ **AWS Solutions Architect Associate** · **AWS Cloud Practitioner** · Studying for Developer Associate
 - 📄 Published researcher — [IEEE ICIDeA 2022](https://ieeexplore.ieee.org/document/9970046/authors#authors)
 - 🎯 Open to **SWE / AI Engineering roles** (Backend / Full-Stack / Cloud)
-- 📫 Reach me at **malikvardan1603@gmail.com**
+- 📫 Reach me at **malikvardan05@gmail.com**
 
 ---
 
